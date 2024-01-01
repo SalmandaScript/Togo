@@ -138,6 +138,16 @@ color: "teal"
 
 });
 
+//previous page
+function theGambia(){
+open("https://salmandascript.github.io/TheGambia/TheGambia.html");
+}
+
+
+// next page
+function tunisia(){
+open("https://salmandascript.github.io/Tunisia/Tunisia.html");
+}
 
 
 //quizz questions code 
